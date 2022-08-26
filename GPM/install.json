@@ -1,0 +1,41 @@
+{
+    "installs": [
+        {
+            "name": "Common",
+            "version": "2.2.1",
+            "dependency": []
+        },
+        {
+            "name": "CacheStorage",
+            "version": "0.2.1",
+            "dependency": [
+                "Common",
+                "UI"
+            ]
+        },
+        {
+            "name": "UI",
+            "version": "2.5.1",
+            "dependency": [
+                "Common",
+                "CacheStorage"
+            ]
+        },
+        {
+            "name": "Profiler",
+            "version": "1.0.2",
+            "dependency": [
+                "Common",
+                "UI",
+                "CacheStorage"
+            ]
+        },
+        {
+            "name": "AssetManagement",
+            "version": "1.2.2",
+            "dependency": [
+                "Common"
+            ]
+        }
+    ]
+}

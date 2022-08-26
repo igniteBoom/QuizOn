@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37dd8949bcef4f445ad3d1aef2627078, type: 3}
+  m_Name: DefaultProfilerData
+  m_EditorClassIdentifier: 
+  performance:
+    active: 1
+    activeGraph: 1
+    anchoredPosition: {x: 0, y: 0}
+    anchorMax: {x: 0, y: 1}
+    anchorMin: {x: 0, y: 1}
+    offsetMax: {x: 300, y: 0}
+    offsetMin: {x: 0, y: 0}
+    pivot: {x: 0, y: 1}
+    sizeDelta: {x: 300, y: 0}
+    fps:
+      active: 1
+    avgGroup:
+      active: 1
+    script:
+      active: 1
+      color: {r: 0.17254902, g: 0.46666667, b: 0.972549, a: 1}
+    render:
+      active: 1
+      color: {r: 0.009776273, g: 0.70980394, b: 0, a: 1}
+  memory:
+    active: 1
+    activeGraph: 1
+    anchoredPosition: {x: 0, y: 0}
+    anchorMax: {x: 1, y: 1}
+    anchorMin: {x: 1, y: 1}
+    offsetMax: {x: 0, y: 0}
+    offsetMin: {x: -230, y: 0}
+    pivot: {x: 1, y: 1}
+    sizeDelta: {x: 230, y: 0}
+    totalReserved:
+      active: 1
+      color: {r: 0.54901963, g: 0.54901963, b: 0.5882353, a: 1}
+    totalAllocated:
+      active: 1
+      color: {r: 0.78431374, g: 0.7529412, b: 0.5647059, a: 1}
+    gfx:
+      active: 1
+      color: {r: 0.11764706, g: 1, b: 0, a: 1}
+    gcHeap:
+      active: 1
+      color: {r: 0.10980392, g: 0.5882353, b: 0.81960785, a: 1}
+    gcUsed:
+      active: 1
+      color: {r: 0.93333334, g: 0.6117647, b: 0.32941177, a: 1}
+  render:
+    active: 1
+    anchoredPosition: {x: 0, y: 0}
+    anchorMax: {x: 0, y: 0}
+    anchorMin: {x: 0, y: 0}
+    offsetMax: {x: 0, y: 0}
+    offsetMin: {x: 0, y: 0}
+    pivot: {x: 0, y: 0}
+    sizeDelta: {x: 0, y: 0}
+    setPass:
+      active: 1
+    drawcalls:
+      active: 1
+    totalBatch:
+      active: 1
+    triangles:
+      active: 1
+    vetices:
+      active: 1
+  system:
+    active: 1
+    anchoredPosition: {x: 0, y: 0}
+    anchorMax: {x: 1, y: 0}
+    anchorMin: {x: 1, y: 0}
+    offsetMax: {x: 0, y: 0}
+    offsetMin: {x: -600, y: 0}
+    pivot: {x: 1, y: 0}
+    sizeDelta: {x: 600, y: 0}
+    os:
+      active: 1
+    deviceModel:
+      active: 1
+    processorType:
+      active: 1
+    processorCount:
+      active: 1
+    graphicDeviceName:
+      active: 1
+    graphicDeviceVender:
+      active: 1
+    graphicDeviceVersion:
+      active: 1
