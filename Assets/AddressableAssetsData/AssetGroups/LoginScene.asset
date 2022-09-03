@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoginScene
+  m_EditorClassIdentifier: 
+  m_GroupName: LoginScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 630aecdb6c165d4468a536b796d13a32
+  m_SerializeEntries:
+  - m_GUID: 1737af094896307469b8ff99d62668bc
+    m_Address: Assets/Scenes/LoginScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 92dc4651b43f55e4094accbee14b0166, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 30ed5ac4e4ce67b4392bb512d477c9e7, type: 2}
+    - {fileID: 11400000, guid: ec9fdc473b4dc9b4bbfb271011baa6f9, type: 2}

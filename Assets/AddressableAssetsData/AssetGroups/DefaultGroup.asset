@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DefaultGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: DefaultGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d2e2c258f5abd024381927eedad21436
+  m_SerializeEntries:
+  - m_GUID: c55399d2f597fef42b1a49a655498e38
+    m_Address: Assets/Images/TitleScene/TitleScene_Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 92dc4651b43f55e4094accbee14b0166, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aaaeb02c5f5beb941ae5a1cab729fd38, type: 2}
+    - {fileID: 11400000, guid: 5027ba4de5733e146ac0cd047347c201, type: 2}

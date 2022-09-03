@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadingScene
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadingScene
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 678cfd3211371fa45b912ee7b2bd3013
+  m_SerializeEntries:
+  - m_GUID: bd9c2b7ac2612474f8cc8ac3c66a5208
+    m_Address: Assets/Scenes/LoadingScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 92dc4651b43f55e4094accbee14b0166, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f4755c9d61a5e1246ad2aeda0323238b, type: 2}
+    - {fileID: 11400000, guid: 7808288b36890d3458ab681db59d2b09, type: 2}
